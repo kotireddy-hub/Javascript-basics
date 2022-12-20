@@ -11,3 +11,9 @@
 {} - ''// -0
 [] - [] // 0 
 {} - {} // NaN
+
+test = 10;
+console.log(test) // output:- 10
+
+undefined = 10;
+console.log(undefined) // output:- undefined but there's no error
