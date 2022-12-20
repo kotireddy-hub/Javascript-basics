@@ -12,3 +12,4 @@ const people = [
         age: "29"
     }
 ]
+console.table(people);
